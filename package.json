@@ -1,0 +1,28 @@
+{
+  "name": "smart-mortgage-calculator",
+  "version": "1.0.0",
+  "description": "A modern, responsive mortgage calculator using API Ninjas API",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8000 -o",
+    "dev": "npx http-server -p 8000 -o"
+  },
+  "keywords": [
+    "mortgage",
+    "calculator",
+    "finance",
+    "real-estate",
+    "loan-calculator",
+    "api-ninjas"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/smart-mortgage-calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/smart-mortgage-calculator/issues"
+  },
+  "homepage": "https://github.com/yourusername/smart-mortgage-calculator#readme"
+}
